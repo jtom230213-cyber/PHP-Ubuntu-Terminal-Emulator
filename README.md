@@ -353,16 +353,6 @@ ls -l sandbox/example
 uname -a
 ```
 
-## Repository Status
-
-The project does not currently include Git metadata, a license file, or automated tests. Before publishing, initialize Git and choose an appropriate license:
-
-```powershell
-git init
-git add .
-git commit -m "Initial commit"
-```
-
 ## License
 
-No license has been specified yet. Add a `LICENSE` file before publishing if you want to grant others permission to use, modify, and distribute the project.
+GPL-3.0 license
